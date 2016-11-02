@@ -23,6 +23,7 @@ and open the template in the editor.
       echo "スペイン語";
       echo "ギリシャ語";
       echo "スワヒリ語";
+      echo "ヒエログリフ";
     ?>
   </body>
 </html>
