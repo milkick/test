@@ -14,6 +14,7 @@ and open the template in the editor.
       echo "Hello World!!\n";
       echo "New World I am GOD!!\n";
       echo "add this number";
+      echo "succession adding";
     ?>
   </body>
 </html>
