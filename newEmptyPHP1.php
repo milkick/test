@@ -6,6 +6,4 @@
  * and open the template in the editor.
  */
 
-echo "test";
-echo "test2";
-echo "test3";
+echo "新規追加";
