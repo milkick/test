@@ -22,6 +22,7 @@ and open the template in the editor.
       echo "英語";
       echo "スペイン語";
       echo "ギリシャ語";
+      echo "スワヒリ語";
     ?>
   </body>
 </html>
