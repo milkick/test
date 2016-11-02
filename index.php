@@ -20,6 +20,7 @@ and open the template in the editor.
       echo "bad comunication";
       echo "日本語";
       echo "英語";
+      echo "スペイン語";
     ?>
   </body>
 </html>
