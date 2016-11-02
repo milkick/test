@@ -13,6 +13,7 @@ and open the template in the editor.
     <?php
       echo "Hello World!!\n";
       echo "New World I am GOD!!\n";
+      echo "add this number";
     ?>
   </body>
 </html>
