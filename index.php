@@ -17,6 +17,7 @@ and open the template in the editor.
       echo "succession adding";
       echo "succession adding2";
       echo "succession adding4";
+      echo "bad comunication";
     ?>
   </body>
 </html>
