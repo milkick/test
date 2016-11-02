@@ -19,6 +19,7 @@ and open the template in the editor.
       echo "succession adding4";
       echo "bad comunication";
       echo "日本語";
+      echo "英語";
     ?>
   </body>
 </html>
