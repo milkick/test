@@ -13,6 +13,10 @@ and open the template in the editor.
     <?php
       echo "Hello World!!\n";
       echo "New World I am GOD!!\n";
+      echo "add this number";
+      echo "succession adding";
+      echo "succession adding2";
+      echo "succession adding4";
     ?>
   </body>
 </html>
