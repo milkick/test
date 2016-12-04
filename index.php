@@ -25,6 +25,8 @@ and open the template in the editor.
       echo "スワヒリ語";
       echo "ヒエログリフ";
       echo "ドイツ語";
+      echo "test";
+      echo "test2";
     ?>
   </body>
 </html>
